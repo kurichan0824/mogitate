@@ -1,0 +1,23 @@
+# Docker関連
+docker/mysql/data/
+docker-compose.yml
+
+# Laravel環境設定
+/.env
+/vendor/
+/node_modules/
+/storage/*.key
+/.phpunit.result.cache
+
+# ログファイル
+/storage/logs/*.log
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# IDE設定
+.idea/
+.vscode/
+*.swp
+*.swo
