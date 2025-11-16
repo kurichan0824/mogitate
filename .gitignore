@@ -1,4 +1,6 @@
-# Docker関連
+# Docker関連 - 全体を無視
+docker/
+docker-compose.yml# Docker関連
 docker/mysql/data/
 docker-compose.yml
 
